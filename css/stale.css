@@ -1,0 +1,17 @@
+* {
+    font-size: 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.menu{
+    color:maroon;
+    background-color: darksalmon;
+    font-style: italic;
+    margin: 0 0 0 20%;
+}
+
+.content{
+    background-color: cornsilk;
+    font-style: unset;
+    margin: 0 0 0 10%;
+}
